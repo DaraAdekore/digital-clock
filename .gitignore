@@ -1,5 +1,5 @@
 #Vs code metadata
-.vscode
+*.vscode
 
 #.dSYM
-.dsym
+*.dsym
